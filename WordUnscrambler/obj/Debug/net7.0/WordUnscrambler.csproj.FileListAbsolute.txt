@@ -1,0 +1,15 @@
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/obj/Debug/net7.0/WordUnscrambler.csproj.AssemblyReference.cache
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/obj/Debug/net7.0/WordUnscrambler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/obj/Debug/net7.0/WordUnscrambler.AssemblyInfoInputs.cache
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/obj/Debug/net7.0/WordUnscrambler.AssemblyInfo.cs
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/obj/Debug/net7.0/WordUnscrambler.csproj.CoreCompileInputs.cache
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/bin/Debug/net7.0/WordUnscrambler
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/bin/Debug/net7.0/WordUnscrambler.deps.json
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/bin/Debug/net7.0/WordUnscrambler.runtimeconfig.json
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/bin/Debug/net7.0/WordUnscrambler.dll
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/bin/Debug/net7.0/WordUnscrambler.pdb
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/obj/Debug/net7.0/WordUnscrambler.dll
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/obj/Debug/net7.0/refint/WordUnscrambler.dll
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/obj/Debug/net7.0/WordUnscrambler.pdb
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/obj/Debug/net7.0/WordUnscrambler.genruntimeconfig.cache
+/Users/suzi/Projects/WordUnscrambler/WordUnscrambler/obj/Debug/net7.0/ref/WordUnscrambler.dll
